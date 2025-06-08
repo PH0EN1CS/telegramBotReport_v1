@@ -17,7 +17,7 @@ namespace bot
 
         static void Main(string[] args)
         {
-            const string token = "ur token";
+            const string token = "";
             BotHelper botHelper = new BotHelper(token);
         }
     }
